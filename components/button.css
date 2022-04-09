@@ -1,0 +1,14 @@
+.button-blue {
+	background-color: #003844;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Merriweather', sans-serif;
+	font-size: 18px;
+}
+
+.button-blue:hover {
+	transition-delay: 0.3;
+	background-color: #848C8E;
+}
